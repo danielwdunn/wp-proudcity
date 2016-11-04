@@ -24,7 +24,7 @@
             "package": {
                 "name": "proudcity/wp-proud-core",
                 "type": "wordpress-plugin",
-                "version": "1.18.0",
+                "version": "1.18.1",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/proudcity/wp-proud-core.git",
@@ -282,7 +282,7 @@
         "wpackagist-plugin/broken-link-checker": "1.11.2",
 
         "proudcity/proudpack": "1.18.0",
-        "proudcity/wp-proud-core": "1.18.0",
+        "proudcity/wp-proud-core": "1.18.1",
         "proudcity/wp-proud-agency": "1.18.0",
         "proudcity/wp-proud-search": "1.18.0",
         "proudcity/wp-proud-payment": "1.18.0",
